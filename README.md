@@ -7,8 +7,9 @@
            FB: https://www.facebook.com/keelvin9<br />
 </p>
 
-
-Para usar: 1º. Coloque o componente na Form;
+Para usar: 
+           
+           1º. Coloque o componente na Form;
 
            2º. Configure a propriedade ControlarForm da seguinte maneira:
            
@@ -26,5 +27,5 @@ Para usar: 1º. Coloque o componente na Form;
            
            5º. Seja feliz!.
 
-* - Não testado em ambientes MacOS, Linux, Android ou IOS 
+Não testado em ambientes MacOS, Linux, Android ou IOS 
 
