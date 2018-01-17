@@ -1,9 +1,11 @@
 # EnterTabComponent
-# Componente de controle de Foco em FMX em ambiente Windows*
-Desenvolvedor: Kelvin dos Santos Vieira
-        Skype: nivlek_1995@hotmail.com
-          Wpp: (49)99818-2190
-           FB: https://www.facebook.com/keelvin9
+<p>
+ Componente de controle de Foco em FMX em ambiente Windows <br />
+ Desenvolvedor: Kelvin dos Santos Vieira<br />
+        Skype: nivlek_1995@hotmail.com<br />
+          Wpp: (49)99818-2190<br />
+           FB: https://www.facebook.com/keelvin9<br />
+</p>
 
 EnterTab: Componente para ajudar no controle de foco em FMX Windows*.
 Para usar: 1º. Coloque o componente na Form;
