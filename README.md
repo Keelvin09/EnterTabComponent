@@ -16,3 +16,4 @@ Para usar: 1º. Coloque o componente na Form;
            4º. Configure os componentes na sua form ou layout com os TabOrder corretamente;
            5º. Seja feliz!.
 * - Não testado em ambientes MacOS, Linux, Android ou IOS 
+
